@@ -22,5 +22,3 @@ when you run it, it decrypts and runs in memory those bytes, by a method called 
 It does not drop anything on the HD. 
 
 Link to starter source code used in this implemenation: http://www.mediafire.com/?qrjxfcqcdvmqo38
-
-
